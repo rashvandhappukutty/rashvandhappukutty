@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=BF91F3&center=true&vCenter=true&width=1200&lines=%5BGALACTIC+TERMINAL%5D+Initializing...;%3E+Rashvandh+A.+%7C+AI+%26+ML+Student;%3E+Exploring+the+Intersection+of+Artificial+Intelligence+and+Space;%3E+Building+Intelligent+Systems+for+Tomorrow;%3E+Navigating+Through+Data%2C+Stars+%26+Infinite+Possibilities;%3E+Space-Tech+Enthusiast+%F0%9F%9A%80+%7C+Future+Innovator;%3E+Mission%3A+Transform+Ideas+into+Reality;%3E+One+Project+Closer+to+the+Cosmos+%E2%9C%A8)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1450&lines=%5BMISSION+CONTROL%5D+Connection+Established...;%3E+Pilot%3A+Rashvandh+A.;%3E+Specialization%3A+Artificial+Intelligence+%26+Machine+Learning;%3E+Secondary+Mission%3A+Space+Technology+Research;%3E+Objective%3A+Build+Technology+That+Shapes+the+Future;%3E+Trajectory%3A+Earth+%E2%86%92+Innovation+%E2%86%92+Cosmos;%3E+Status%3A+Ready+for+Launch+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
 
 <br/>
 
