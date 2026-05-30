@@ -12,9 +12,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rashvandhappukutty&color=bf91f3&style=for-the-badge&label=PROFILE+SCANS)](https://github.com/rashvandhappukutty)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/rashvandhappukutty?style=for-the-badge&color=70a5fd&labelColor=0d1117&label=FOLLOWERS)](https://github.com/rashvandhappukutty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashvandh_Appukutty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rashvandh-a-067746348/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/◈_LIVE_PORTFOLIO-rashvandh.netlify.app-38bdae?style=for-the-badge&labelColor=0d1117)](https://rashvandh.netlify.app)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-rashvandh.netlify.app-38bdae?style=for-the-badge&labelColor=0d1117&logo=netlify&logoColor=white)](https://rashvandh.netlify.app)
 
 </div>
 
@@ -27,8 +27,6 @@
 ║  /usr/bin/rashvandh --whoami                                             ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 #!/usr/bin/env python3
@@ -66,8 +64,6 @@ class RashvandhA:
     def motto(self) -> str:
         return ">> Ship. Learn. Repeat. Don't wait for permission."
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -118,12 +114,7 @@ class RashvandhA:
 
 <div align="center">
 
-<a href="https://github.com/rashvandhappukutty">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rashvandhappukutty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=bf91f3&icon_color=70a5fd&text_color=c9d1d9&border_radius=10&ring_color=bf91f3"/>
-</a>
-<a href="https://github.com/rashvandhappukutty">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashvandhappukutty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rashvandhappukutty&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=BF91F3&fire=70A5FD&currStreakLabel=BF91F3&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/rashvandhappukutty)
 
 </div>
 
@@ -131,7 +122,11 @@ class RashvandhA:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rashvandhappukutty&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=BF91F3&fire=70A5FD&currStreakLabel=BF91F3&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Top%20Language-Python-BF91F3?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=BF91F3)
+&nbsp;
+![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-70A5FD?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=70A5FD)
+&nbsp;
+![Open Source](https://img.shields.io/badge/Open%20to-Collaborations-38BDAE?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=38BDAE)
 
 </div>
 
@@ -142,16 +137,6 @@ class RashvandhA:
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rashvandhappukutty&theme=tokyo-night&bg_color=0d1117&color=bf91f3&line=70a5fd&point=38bdae&area=true&hide_border=true&area_color=1a0533)](https://github.com/rashvandhappukutty)
-
-</div>
-
----
-
-## `◈ TROPHY RACK`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rashvandhappukutty&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -256,7 +241,7 @@ class RashvandhA:
 ◈ ── Let's build something that matters ── ◈
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashvandh_Appukutty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rashvandh-appukutty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashvandh_Appukutty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rashvandh-a-067746348/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-rashvandhappukutty%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rashvandhappukutty@gmail.com)
 &nbsp;
