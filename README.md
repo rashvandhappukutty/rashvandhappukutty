@@ -1,196 +1,269 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rashvandh%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Building%20Intelligent%2C%20Scalable%20Solutions&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a0533,100:0d1117&height=200&section=header&text=RASHVANDH.A&fontSize=52&fontColor=BF91F3&animation=blinking&fontAlignY=55&desc=◈%20AI%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Problem%20Hunter%20◈&descAlignY=78&descSize=15&stroke=BF91F3&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rashvandh+%F0%9F%91%8B;AI+%26+ML+Student+%7C+MERN+Developer;Building+AI-Powered+Real-World+Apps;Turning+Ideas+into+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=BF91F3&background=00000000&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Rashvandh.exe...;%3E+AI+%26+ML+Student+%40+KPR+College;%3E+Building+Intelligent+Full-Stack+Systems;%3E+Turning+Pain+Points+into+Products;%3E+grep+-r+%22opportunity%22+%2Finternet+--output%3Dstartup)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rashvandhappukutty&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/rashvandhappukutty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashvandh%20Appukutty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashvandh-appukutty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rashvandh.netlify.app-70a5fd?style=flat-square&logo=netlify&logoColor=white)](https://rashvandh.netlify.app)
-[![Email](https://img.shields.io/badge/Email-rashvandhappukutty@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rashvandhappukutty@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rashvandhappukutty&color=bf91f3&style=for-the-badge&label=PROFILE+SCANS)](https://github.com/rashvandhappukutty)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/rashvandhappukutty?style=for-the-badge&color=70a5fd&labelColor=0d1117&label=FOLLOWERS)](https://github.com/rashvandhappukutty)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/◈_LIVE_PORTFOLIO-rashvandh.netlify.app-38bdae?style=for-the-badge&labelColor=0d1117)](https://rashvandh.netlify.app)
 
 </div>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  /usr/bin/rashvandh --whoami                                             ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Rashvandh:
-    def __init__(self):
-        self.name        = "Rashvandh A"
-        self.location    = "Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.Sc. AI & ML @ KPR College of Arts Science and Research"
-        self.github      = "rashvandhappukutty"
-        self.portfolio   = "rashvandh.netlify.app"
+#!/usr/bin/env python3
+# rashvandh_a.py  ·  root@universe:~$
 
-        self.stack = [
-            "Python", "JavaScript",
-            "React.js", "Node.js", "Express.js",
-            "MongoDB", "FastAPI",
-            "ChromaDB", "Neo4j"
-        ]
+class RashvandhA:
 
-        self.currently_learning = [
-            "Transformer Embeddings & NLP",
-            "LLM-based Pipelines",
-            "Graph Databases (Neo4j)",
-            "ML Model Deployment"
-        ]
+    SIGNAL  = "Tamil Nadu, India 🇮🇳"
+    HANDLE  = "@rashvandhappukutty"
+    MISSION = "Build AI that solves real problems."
 
-        self.fun_fact = (
-            "I built an AI that discovers startup ideas "
-            "by mining the internet for pain points 🚀"
+    stack = {
+        "languages"  : ["Python", "JavaScript"],
+        "frontend"   : ["React.js", "HTML5", "CSS3"],
+        "backend"    : ["Node.js", "Express.js", "FastAPI"],
+        "databases"  : ["MongoDB", "ChromaDB", "Neo4j"],
+        "ai_tooling" : ["LLMs", "Transformers", "NLP",
+                        "Embedding Models", "RAG Pipelines"],
+        "ops"        : ["Git", "GitHub", "Netlify"],
+    }
+
+    currently_hacking_on = [
+        "→ Graph-powered AI pipelines (Neo4j + LLM)",
+        "→ RAG systems & vector search",
+        "→ Scalable MERN architectures",
+        "→ ML model deployment on real infra",
+    ]
+
+    def fun_fact(self):
+        return (
+          "I built an engine that reads the internet "
+          "and discovers startup ideas from pain points 🔭"
         )
 
-    def motto(self):
-        return "Build things that matter. Learn things that scale."
+    def motto(self) -> str:
+        return ">> Ship. Learn. Repeat. Don't wait for permission."
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## `◈ TECH ARSENAL`
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**── Core Languages ──**
 
-**Frameworks & Libraries**
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=BF91F3&labelColor=1a0533)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a0533)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**── Frontend ──**
 
-**Databases**
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a0533)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=1a0533)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1a0533)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+**── Backend ──**
 
-**AI & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=1a0533)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=1a0533)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=1a0533)
 
-![Applied AI](https://img.shields.io/badge/Applied%20AI-BF91F3?style=flat-square&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&logo=spacy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+**── Databases & Vector Stores ──**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1a0533)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF6B35&labelColor=1a0533)
+![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=008CC1&labelColor=1a0533)
+
+**── AI / ML / NLP ──**
+
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=BF91F3&labelColor=1a0533)
+![Transformers](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=1a0533)
+![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5&labelColor=1a0533)
+
+**── DevOps & Tools ──**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=1a0533)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a0533)
+![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=1a0533)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## `◈ SYSTEM METRICS`
 
 <div align="center">
 
 <a href="https://github.com/rashvandhappukutty">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rashvandhappukutty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rashvandhappukutty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=bf91f3&icon_color=70a5fd&text_color=c9d1d9&border_radius=10&ring_color=bf91f3"/>
 </a>
 <a href="https://github.com/rashvandhappukutty">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashvandhappukutty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashvandhappukutty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
----
-
-## 🔥 Streak Stats
+<br/>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rashvandhappukutty&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rashvandhappukutty&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=BF91F3&fire=70A5FD&currStreakLabel=BF91F3&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## `◈ COMMIT PULSE`
 
 <div align="center">
 
-[![Rashvandh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rashvandhappukutty&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rashvandhappukutty)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rashvandhappukutty&theme=tokyo-night&bg_color=0d1117&color=bf91f3&line=70a5fd&point=38bdae&area=true&hide_border=true&area_color=1a0533)](https://github.com/rashvandhappukutty)
 
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+## `◈ TROPHY RACK`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rashvandhappukutty&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rashvandhappukutty&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💼 Projects
+## `◈ DEPLOYED PROJECTS`
+
+<br/>
+
+<details open>
+<summary><b>🔭 Project Athena — AI Problem Discovery Engine</b></summary>
+<br/>
+
+> `FastAPI` · `React` · `ChromaDB` · `Neo4j` · `LLM Pipelines` · `Transformer Embeddings`
+
+- 🕷️ **Mines public internet discussions** to extract recurring pain points at scale
+- 🧠 **Clusters emerging problems** using transformer-based semantic embeddings
+- 📈 **Estimates market opportunities** and ranks startup ideas by impact + feasibility
+- 🔗 **Knowledge graph backbone** via Neo4j to map relationships between problem spaces
+- ⚡ End-to-end LLM analysis pipeline from raw discussion → actionable startup brief
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🤖 AI Career Copilot — Resume Intelligence Platform</b></summary>
+<br/>
+
+> `Python` · `NLP` · `Embedding Models` · `Text Similarity` · `React` · `Node.js` · `MongoDB`
+
+- 📄 **Parses and evaluates resumes** using NLP techniques to generate ATS compatibility scores
+- 🎯 **Job recommendation engine** powered by text similarity + embedding distance
+- 📊 **Skill gap analysis** that maps current skills against target job requirements
+- 🔄 **Real-time feedback dashboard** for tracking improvement across iterations
+- 🏗️ Fully scalable full-stack system built for performance and personalization
+
+</details>
+
+---
+
+## `◈ ACHIEVEMENTS LOG`
+
+<br/>
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [🔭 **Project Athena** – AI Problem Discovery Engine](https://github.com/rashvandhappukutty) | FastAPI · React · ChromaDB · Neo4j · LLMs | Mines public discussions for pain points, clusters problems via transformer embeddings, estimates market opportunities & generates startup ideas ranked by impact and feasibility |
-| [🤖 **AI Career Copilot**](https://github.com/rashvandhappukutty) | Python · NLP · Embedding Models · Full-Stack | End-to-end resume analysis platform generating ATS compatibility scores; job recommendation + skill gap analysis via text similarity; real-time feedback dashboard for user improvement |
+| STATUS | EVENT | DETAILS |
+|:------:|:------|:--------|
+| `[PUBLISHED]` | 📜 International Conference Paper | *AI in Nuclear Medicine* — PSGCAS International Conference |
+| `[PUBLISHED]` | 📜 Conference Paper | *AI in Space Applications* — Kongunadu College of Arts & Science |
+| `[COMPETED]` | ⚡ Smart India Hackathon 2024 | National Hackathon — MoE Innovation Cell & AICTE |
+| `[COMPETED]` | ⚡ Smart India Hackathon 2025 | National Hackathon — MoE Innovation Cell & AICTE |
+| `[COMPETED]` | 🚀 Rac-a-Thon 24-Hour Hackathon | Rotaract Club of KPRCAS & Uptown |
+| `[COMPLETED]` | 🏁 IDE Bootcamp Phase 2 | Jai Bharath College of Mgmt & Engineering Technology |
+| `[CERTIFIED]` | 🎓 Freedom with AI | Certification of Completion |
+| `[CERTIFIED]` | 🎓 STUDAI ELVE8 | Certification of Completion |
+| `[CERTIFIED]` | 🎓 Web Development | IBM Certification of Completion |
+| `[CERTIFIED]` | 🎓 Basic Full-Stack MERN | Nxtwave Certification of Completion |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Activities
+## `◈ EDUCATION`
+
+<br/>
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 📜 | **International Conference Paper** | Presented on *AI in Nuclear Medicine* — organized by PSGCAS |
-| 📜 | **Conference Paper** | Presented on *AI in Space Applications* — Kongunadu College of Arts & Science |
-| ⚡ | **Smart India Hackathon 2024** | Participated — organized by MoE Innovation Cell & AICTE |
-| ⚡ | **Smart India Hackathon 2025** | Participated — organized by MoE Innovation Cell & AICTE |
-| 🛠️ | **IDE Bootcamp Phase 2** | Completed — Jai Bharath College of Management & Engineering Technology |
-| 🚀 | **Rac-a-Thon (24-Hour Hackathon)** | Participated — Rotaract Club of KPRCAS & Uptown |
-| 🎓 | **Freedom with AI** | Certification of Completion |
-| 🎓 | **STUDAI ELVE8** | Certification of Completion |
-| 🎓 | **Web Development – IBM** | Certification of Completion |
-| 🎓 | **Basic Full-Stack (MERN) – Nxtwave** | Certification of Completion |
+| DEGREE | INSTITUTION | PERIOD | STATUS |
+|:-------|:------------|:------:|:------:|
+| 🧠 B.Sc. Artificial Intelligence & Machine Learning | KPR College of Arts Science and Research | Jul 2024 → Present | `[ACTIVE]` |
+| 📘 Secondary Education — CBSE (12th) | Sri Kumaran Public Senior Secondary School | May 2023 → May 2024 | `[COMPLETE]` |
 
 </div>
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Period | Score |
-|:-------|:------------|:------:|:-----:|
-| 🎓 B.Sc. Artificial Intelligence & Machine Learning | KPR College of Arts Science and Research | July 2024 – Present | Ongoing |
-| 📘 Secondary Education – CBSE (12th) | Sri Kumaran Public Senior Secondary School | May 2023 – May 2024 | — |
-
-</div>
-
----
-
-## 🌱 Currently Learning
+## `◈ CURRENTLY LOADING`
 
 ```
-🤖 Transformer Embeddings  →  Sentence-BERT · Semantic Search · Chunking Strategies
-🧠 LLM Engineering         →  Prompt Engineering · RAG Pipelines · LangChain
-🕸️ Graph Databases         →  Neo4j · Cypher Queries · Knowledge Graphs
-☁️ Model Deployment        →  FastAPI · Docker basics · Hugging Face Spaces
-🔬 Machine Learning        →  Supervised Learning · Model Evaluation · Scikit-learn
+╔══════════════════════════════════════════════════════════════╗
+║  rashvandh@universe:~$ cat learning_queue.txt                ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🧱 Transformer Embeddings  →  SBERT · Semantic Search       ║
+║  🔗 RAG Pipelines           →  LangChain · Vector Retrieval  ║
+║  🕸️  Graph Databases         →  Neo4j · Cypher · KG Design    ║
+║  ☁️  Model Deployment        →  FastAPI · Docker · HF Spaces  ║
+║  🤖 ML Fundamentals         →  Scikit-learn · Evaluation     ║
+║                                                              ║
+║  [████████████████░░░░]  78% toward first production model   ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+
+```
+◈ ── Let's build something that matters ── ◈
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashvandh_Appukutty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rashvandh-appukutty)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-rashvandhappukutty%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rashvandhappukutty@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-rashvandh.netlify.app-38BDAE?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)](https://rashvandh.netlify.app)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a0533,100:0d1117&height=140&section=footer&animation=blinking&stroke=BF91F3&strokeWidth=1&text=EOF%20//%20See%20you%20in%20the%20commit%20history&fontSize=16&fontColor=8B949E&fontAlignY=55" width="100%"/>
