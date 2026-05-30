@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=BF91F3&background=00000000&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Rashvandh.exe...;%3E+AI+%26+ML+Student+%40+KPR+College;%3E+Building+Intelligent+Full-Stack+Systems;%3E+Turning+Pain+Points+into+Products;%3E+grep+-r+%22opportunity%22+%2Finternet+--output%3Dstartup)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=BF91F3&background=00000000&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Rashvandh.exe...;%3E+AI+%26+ML+Student+%40+KPR+CollegeofArtsScienceandResearch;%3E+Building+Intelligent+Full-Stack+Systems;%3E+Turning+Pain+Points+into+Products;%3E+grep+-r+%22opportunity%22+%2Finternet+--output%3Dstartup)](https://git.io/typing-svg)
 
 </div>
 
