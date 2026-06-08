@@ -217,25 +217,27 @@ class RashvandhA:
 ## `◈ CURRENTLY LOADING`
 
 ```
-## Current Focus
-
-| Project | Description |
-|----------|------------|
-| Project Athena | AI Startup Discovery Engine |
-| Galactic AI | Space Simulation Platform |
-| AI Resume Copilot | Career Intelligence System |
-| EduMentor AI | AI-Powered Education Platform |
-| Forest Fire AI | Satellite Prediction Model |
-
-### Research Areas
-
-| Area | Focus |
-|--------|--------|
-| Transformer Embeddings | SBERT, Semantic Search |
-| RAG Systems | LangChain, Vector Retrieval |
-| Knowledge Graphs | Neo4j, Cypher |
-| Deployment | FastAPI, Docker, Hugging Face |
-| Machine Learning | Scikit-learn, Evaluation |
+╔══════════════════════════════════════════════════════════════╗
+║  rashvandh@quantumdraft:~$ cat current_focus.txt            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🔭 Project Athena        → AI Startup Discovery Engine      ║
+║  🌌 Galactic AI           → Space Simulation Platform        ║
+║  🤖 AI Resume Copilot     → Career Intelligence System       ║
+║  📚 EduMentor AI          → AI-Powered Education Platform    ║
+║  🔥 Forest Fire AI        → Satellite Prediction Model       ║
+║                                                              ║
+║  🧠 Research Areas                                          ║
+║  ├─ Transformer Embeddings → SBERT · Semantic Search        ║
+║  ├─ RAG Pipelines         → LangChain · Vector Retrieval    ║
+║  ├─ Knowledge Graphs      → Neo4j · Cypher · KG Design      ║
+║  ├─ Model Deployment      → FastAPI · Docker · HF Spaces    ║
+║  └─ Machine Learning      → Scikit-learn · Evaluation       ║
+║                                                              ║
+║  Status  : Building Production-Ready AI Systems             ║
+║  Mission : Build Technology That Creates Real Impact        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
