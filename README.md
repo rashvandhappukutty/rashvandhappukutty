@@ -218,7 +218,7 @@ class RashvandhA:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  rashvandh@quantumdraft:~$ cat current_focus.txt            ║
+║  rashvandh@quantumdraft:~$ cat current_focus.txt             ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  🔭 Project Athena        → AI Startup Discovery Engine      ║
@@ -226,16 +226,16 @@ class RashvandhA:
 ║  🤖 AI Resume Copilot     → Career Intelligence System       ║
 ║  📚 EduMentor AI          → AI-Powered Education Platform    ║
 ║  🔥 Forest Fire AI        → Satellite Prediction Model       ║
+║                                                               ║
+║  🧠 Research Areas                                           ║
+║  ├─ Transformer Embeddings → SBERT · Semantic Search         ║
+║  ├─ RAG Pipelines         → LangChain · Vector Retrieval     ║
+║  ├─ Knowledge Graphs      → Neo4j · Cypher · KG Design       ║
+║  ├─ Model Deployment      → FastAPI · Docker · HF Spaces     ║
+║  └─ Machine Learning      → Scikit-learn · Evaluation        ║
 ║                                                              ║
-║  🧠 Research Areas                                          ║
-║  ├─ Transformer Embeddings → SBERT · Semantic Search        ║
-║  ├─ RAG Pipelines         → LangChain · Vector Retrieval    ║
-║  ├─ Knowledge Graphs      → Neo4j · Cypher · KG Design      ║
-║  ├─ Model Deployment      → FastAPI · Docker · HF Spaces    ║
-║  └─ Machine Learning      → Scikit-learn · Evaluation       ║
-║                                                              ║
-║  Status  : Building Production-Ready AI Systems             ║
-║  Mission : Build Technology That Creates Real Impact        ║
+║  Status  : Building Production-Ready AI Systems              ║
+║  Mission : Build Technology That Creates Real Impact         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
