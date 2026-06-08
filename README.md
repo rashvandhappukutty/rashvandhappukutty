@@ -1,252 +1,261 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a0533,100:0d1117&height=200&section=header&text=RASHVANDH.A&fontSize=52&fontColor=BF91F3&animation=blinking&fontAlignY=55&desc=◈%20AI%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Problem%20Hunter%20◈&descAlignY=78&descSize=15&stroke=BF91F3&strokeWidth=2" width="100%"/>
+# Rashvandh A.
 
-<div align="center">
+### AI Engineer • Full-Stack Developer • Researcher • Founder of QuantumDraft
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1450&lines=%5BMISSION+CONTROL%5D+Connection+Established...;%3E+Pilot%3A+Rashvandh+A.;%3E+Specialization%3A+Artificial+Intelligence+%26+Machine+Learning;%3E+Secondary+Mission%3A+Space+Technology+Research;%3E+Objective%3A+Build+Technology+That+Shapes+the+Future;%3E+Trajectory%3A+Earth+%E2%86%92+Innovation+%E2%86%92+Cosmos;%3E+Status%3A+Ready+for+Launch+%F0%9F%9A%80)](https://git.io/typing-svg)</div>
-
-<br/>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=rashvandhappukutty&color=bf91f3&style=for-the-badge&label=PROFILE+SCANS)](https://github.com/rashvandhappukutty)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashvandh_Appukutty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rashvandh-a-067746348/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-rashvandh.netlify.app-38bdae?style=for-the-badge&labelColor=0d1117&logo=netlify&logoColor=white)](https://rashvandh.netlify.app)
-
-</div>
-
-<br/>
+Building intelligent systems, AI-powered products, and scalable applications that solve real-world problems.
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  /usr/bin/rashvandh --whoami                                             ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+## About Me
 
-```python
-#!/usr/bin/env python3
-# rashvandh_a.py  ·  root@universe:~$
+I am an Artificial Intelligence & Machine Learning student passionate about transforming ideas into impactful technology.
 
-class RashvandhA:
+My work focuses on:
 
-    SIGNAL  = "Tamil Nadu, India 🇮🇳"
-    HANDLE  = "@rashvandhappukutty"
-    MISSION = "Build AI that solves real problems."
+- Artificial Intelligence & Machine Learning
+- Generative AI Applications
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Full-Stack Development
+- Intelligent Automation
+- Space Technology Research
 
-    stack = {
-        "languages"  : ["Python", "JavaScript"],
-        "frontend"   : ["React.js", "HTML5", "CSS3"],
-        "backend"    : ["Node.js", "Express.js", "FastAPI"],
-        "databases"  : ["MongoDB", "ChromaDB", "Neo4j"],
-        "ai_tooling" : ["LLMs", "Transformers", "NLP",
-                        "Embedding Models", "RAG Pipelines"],
-        "ops"        : ["Git", "GitHub", "Netlify"],
-    }
-
-    currently_hacking_on = [
-        "→ Graph-powered AI pipelines (Neo4j + LLM)",
-        "→ RAG systems & vector search",
-        "→ Scalable MERN architectures",
-        "→ ML model deployment on real infra",
-    ]
-
-    def fun_fact(self):
-        return (
-          "I built an engine that reads the internet "
-          "and discovers startup ideas from pain points 🔭"
-        )
-
-    def motto(self) -> str:
-        return ">> Ship. Learn. Repeat. Don't wait for permission."
-```
+I enjoy building products that combine research, engineering, and practical problem-solving.
 
 ---
 
-## `◈ TECH ARSENAL`
+## Founder
 
-<div align="center">
+### QuantumDraft
 
-**── Core Languages ──**
+QuantumDraft is a technology venture focused on developing:
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=BF91F3&labelColor=1a0533)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a0533)
+- AI-Powered Applications
+- Intelligent Automation Solutions
+- Educational Technology Platforms
+- Research-Oriented Software Products
+- Modern Web Applications
 
-**── Frontend ──**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a0533)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=1a0533)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1a0533)
-
-**── Backend ──**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=1a0533)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=1a0533)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=1a0533)
-
-**── Databases & Vector Stores ──**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1a0533)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF6B35&labelColor=1a0533)
-![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=008CC1&labelColor=1a0533)
-
-**── AI / ML / NLP ──**
-
-![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=BF91F3&labelColor=1a0533)
-![Transformers](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=1a0533)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5&labelColor=1a0533)
-
-**── DevOps & Tools ──**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=1a0533)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a0533)
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=1a0533)
-
-</div>
+Our mission is to create technology that is useful, scalable, and impactful.
 
 ---
 
-## `◈ SYSTEM METRICS`
+# Featured Projects
 
-<div align="center">
+## Project Athena
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rashvandhappukutty&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=BF91F3&fire=70A5FD&currStreakLabel=BF91F3&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/rashvandhappukutty)
+### AI-Powered Startup Opportunity Discovery Engine
 
-</div>
+Project Athena is an advanced intelligence platform that discovers real-world problems from public discussions and transforms them into startup opportunities.
 
-<br/>
+### Features
 
-<div align="center">
+- Pain-point mining from online discussions
+- Semantic clustering using embeddings
+- AI-powered startup idea generation
+- Knowledge Graph integration
+- Market opportunity analysis
+- Automated business insights
 
-![Python](https://img.shields.io/badge/Top%20Language-Python-BF91F3?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=BF91F3)
-&nbsp;
-![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-70A5FD?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=70A5FD)
-&nbsp;
-![Open Source](https://img.shields.io/badge/Open%20to-Collaborations-38BDAE?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=38BDAE)
+### Technologies
 
-</div>
-
----
-
-## `◈ COMMIT PULSE`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rashvandhappukutty&theme=tokyo-night&bg_color=0d1117&color=bf91f3&line=70a5fd&point=38bdae&area=true&hide_border=true&area_color=1a0533)](https://github.com/rashvandhappukutty)
-
-</div>
+FastAPI • React • Neo4j • ChromaDB • LLMs • NLP • Vector Search
 
 ---
 
-## `◈ DEPLOYED PROJECTS`
+## Galactic AI
 
-<br/>
+### Intelligent Space Simulation & Storytelling Platform
 
-<details open>
-<summary><b>🔭 Project Athena — AI Problem Discovery Engine</b></summary>
-<br/>
+Galactic AI combines scientific simulation, procedural universe generation, and AI storytelling into a unified exploration experience.
 
-> `FastAPI` · `React` · `ChromaDB` · `Neo4j` · `LLM Pipelines` · `Transformer Embeddings`
+### Features
 
-- 🕷️ **Mines public internet discussions** to extract recurring pain points at scale
-- 🧠 **Clusters emerging problems** using transformer-based semantic embeddings
-- 📈 **Estimates market opportunities** and ranks startup ideas by impact + feasibility
-- 🔗 **Knowledge graph backbone** via Neo4j to map relationships between problem spaces
-- ⚡ End-to-end LLM analysis pipeline from raw discussion → actionable startup brief
+- Procedural galaxy generation
+- Planet simulation
+- Civilization modeling
+- AI narrative generation
+- Scientific visualization
+- Interactive exploration system
 
-</details>
+### Technologies
 
-<br/>
-
-<details open>
-<summary><b>🤖 AI Career Copilot — Resume Intelligence Platform</b></summary>
-<br/>
-
-> `Python` · `NLP` · `Embedding Models` · `Text Similarity` · `React` · `Node.js` · `MongoDB`
-
-- 📄 **Parses and evaluates resumes** using NLP techniques to generate ATS compatibility scores
-- 🎯 **Job recommendation engine** powered by text similarity + embedding distance
-- 📊 **Skill gap analysis** that maps current skills against target job requirements
-- 🔄 **Real-time feedback dashboard** for tracking improvement across iterations
-- 🏗️ Fully scalable full-stack system built for performance and personalization
-
-</details>
+Python • FastAPI • React • AI Agents • Data Visualization
 
 ---
 
-## `◈ ACHIEVEMENTS LOG`
+## AI Resume Copilot
 
-<br/>
+### Career Intelligence Platform
 
-<div align="center">
+AI Resume Copilot helps students and professionals optimize resumes and improve employability through AI-driven analysis.
 
-| STATUS | EVENT | DETAILS |
-|:------:|:------|:--------|
-| `[PUBLISHED]` | 📜 International Conference Paper | *AI in Nuclear Medicine* — PSGCAS International Conference |
-| `[PUBLISHED]` | 📜 Conference Paper | *AI in Space Applications* — Kongunadu College of Arts & Science |
-| `[COMPETED]` | ⚡ Smart India Hackathon 2024 | National Hackathon — MoE Innovation Cell & AICTE |
-| `[COMPETED]` | ⚡ Smart India Hackathon 2025 | National Hackathon — MoE Innovation Cell & AICTE |
-| `[COMPETED]` | 🚀 Rac-a-Thon 24-Hour Hackathon | Rotaract Club of KPRCAS & Uptown |
-| `[COMPLETED]` | 🏁 IDE Bootcamp Phase 2 | Jai Bharath College of Mgmt & Engineering Technology |
-| `[CERTIFIED]` | 🎓 Freedom with AI | Certification of Completion |
-| `[CERTIFIED]` | 🎓 STUDAI ELVE8 | Certification of Completion |
-| `[CERTIFIED]` | 🎓 Web Development | IBM Certification of Completion |
-| `[CERTIFIED]` | 🎓 Basic Full-Stack MERN | Nxtwave Certification of Completion |
+### Features
 
-</div>
+- ATS Compatibility Analysis
+- Resume Scoring
+- Skill Gap Detection
+- Career Recommendations
+- Job Matching
+- Resume Improvement Suggestions
+
+### Technologies
+
+Python • NLP • Machine Learning • React • MongoDB
 
 ---
 
-## `◈ EDUCATION`
+## EduMentor AI
 
-<br/>
+### AI-Powered Educational Assistant
 
-<div align="center">
+An intelligent educational ecosystem designed to automate assessment and improve learning outcomes.
 
-| DEGREE | INSTITUTION | PERIOD | STATUS |
-|:-------|:------------|:------:|:------:|
-| 🧠 B.Sc. Artificial Intelligence & Machine Learning | KPR College of Arts Science and Research | Jul 2024 → Present | `[ACTIVE]` |
-| 📘 Secondary Education — CBSE (12th) | Sri Kumaran Public Senior Secondary School | May 2023 → May 2024 | `[COMPLETE]` |
+### Features
 
-</div>
+- Automated Assignment Evaluation
+- Study Material Generation
+- Learning Analytics
+- Parent Reporting
+- Performance Tracking
 
----
+### Technologies
 
-## `◈ CURRENTLY LOADING`
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  rashvandh@universe:~$ cat learning_queue.txt                ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🧱 Transformer Embeddings  →  SBERT · Semantic Search       ║
-║  🔗 RAG Pipelines           →  LangChain · Vector Retrieval  ║
-║  🕸️  Graph Databases         →  Neo4j · Cypher · KG Design    ║
-║  ☁️  Model Deployment        →  FastAPI · Docker · HF Spaces  ║
-║  🤖 ML Fundamentals         →  Scikit-learn · Evaluation     ║
-║                                                              ║
-║  [████████████████░░░░]  78% toward first production model   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Python • FastAPI • React • Machine Learning
 
 ---
 
-<div align="center">
+## BhashaMitra
 
-```
-◈ ── Let's build something that matters ── ◈
-```
+### Multilingual AI Assistant
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashvandh_Appukutty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rashvandh-a-067746348/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-rashvandhappukutty%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rashvandhappukutty@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-rashvandh.netlify.app-38BDAE?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)](https://rashvandh.netlify.app)
+An AI assistant designed for everyday Indian users with multilingual communication capabilities.
 
-</div>
+### Features
 
-<br/>
+- Speech-to-Text
+- Text-to-Speech
+- Regional Language Support
+- AI Conversations
+- Accessibility Enhancement
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a0533,100:0d1117&height=140&section=footer&animation=blinking&stroke=BF91F3&strokeWidth=1&text=EOF%20//%20See%20you%20in%20the%20commit%20history&fontSize=16&fontColor=8B949E&fontAlignY=55" width="100%"/>
+### Technologies
+
+Python • NLP • Speech Processing • LLMs
+
+---
+
+# Research & Publications
+
+### AI in Nuclear Medicine
+
+Published research focusing on the applications of Artificial Intelligence in healthcare diagnostics and medical imaging.
+
+### AI in Space Applications
+
+Published research exploring the integration of AI technologies into space exploration and scientific missions.
+
+---
+
+# Technical Skills
+
+## Programming Languages
+
+- Python
+- JavaScript
+- Java
+
+## Frontend Development
+
+- React
+- HTML5
+- CSS3
+- Bootstrap
+
+## Backend Development
+
+- FastAPI
+- Node.js
+- Express.js
+
+## Databases
+
+- MongoDB
+- Neo4j
+- ChromaDB
+
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Large Language Models
+- Retrieval-Augmented Generation
+- Vector Databases
+
+## Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Docker
+- Netlify
+
+---
+
+# Achievements
+
+- Smart India Hackathon 2024 Participant
+- Smart India Hackathon 2025 Participant
+- Research Paper Publication – AI in Nuclear Medicine
+- Research Paper Publication – AI in Space Applications
+- IBM Web Development Certification
+- NxtWave Full Stack Development Certification
+- Multiple National-Level Hackathon Participations
+
+---
+
+# Current Focus
+
+Currently working on:
+
+- Galactic AI
+- Project Athena
+- Advanced RAG Architectures
+- AI-Powered Education Systems
+- Forest Fire Prediction using Satellite Data
+- Knowledge Graph Based AI Applications
+
+---
+
+# 2026 Goals
+
+- Launch Multiple Production-Ready AI Products
+- Publish Additional Research Papers
+- Expand QuantumDraft
+- Contribute to Open Source AI Projects
+- Build Large-Scale Intelligent Systems
+
+---
+
+# Connect
+
+### Portfolio
+
+https://your-portfolio-link.com
+
+### LinkedIn
+
+https://linkedin.com/in/rashvandh-a
+
+### GitHub
+
+https://github.com/rashvandhappukutty
+
+### Email
+
+rashvandhappukutty@gmail.com
+
+---
+
+> Building technology that creates measurable impact through intelligence, innovation, and execution.
